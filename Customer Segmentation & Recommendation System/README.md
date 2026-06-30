@@ -85,7 +85,7 @@ K-Means clustering was used to segment customers into five distinct groups based
 ### Elbow Method
 
 The elbow Method was used to identify an appropriate number of clusters before training the K-Means model.
-![Elbow Method](elbow method.png)
+![Elbow Method](elbow_method.png)
 
 ⸻
 
@@ -111,7 +111,7 @@ Cluster Profiles
 
 The final model identified five customer segments with different customer proportions.
 
-![Customer Distribution](cluster distribution.png)
+![Customer Distribution](cluster_distribution.png)
 
 Cluster 0 – Casual Weekend Shoppers
 
@@ -170,7 +170,7 @@ Cluster 4 – Customers with High Cancellation Behavior
 
 Radar charts summarize the behavioral characteristics of each customer segment.
 
-![Cluster Profiles](cluster profiles.png)
+![Cluster Profiles](cluster_profiles.png)
 
 ⸻
 
