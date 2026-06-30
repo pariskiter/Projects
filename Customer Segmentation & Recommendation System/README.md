@@ -82,6 +82,11 @@ Clustering Algorithm
 
 K-Means clustering was used to segment customers into five distinct groups based on behavioral similarities.
 
+### Elbow Method
+
+The elbow Method was used to identify an appropriate number of clusters before training the K-Means model.
+![Elbow Method](elbow method.png)
+
 ⸻
 
 Cluster Evaluation
@@ -102,6 +107,11 @@ Davies-Bouldin Score
 The evaluation results indicate a reasonable clustering structure with moderately separated customer groups and meaningful behavioral segmentation.
 
 Cluster Profiles
+### Customer Distribution
+
+The final model identified five customer segments with different customer proportions.
+
+![Customer Distribution](cluster distribution.png)
 
 Cluster 0 – Casual Weekend Shoppers
 
@@ -156,10 +166,19 @@ Cluster 4 – Customers with High Cancellation Behavior
 * Monthly spending patterns fluctuate noticeably over time.
 * This segment may require further behavioral investigation and targeted engagement strategies.
 
+### Cluster Profiles Visualization
+
+Radar charts summarize the behavioral characteristics of each customer segment.
+
+![Cluster Profiles](cluster profiles.png)
 ⸻
 
 Visualization Techniques
+### Correlation Analysis
 
+The correlation heatmap was used during exploratory data analysis to understand relationships among engineered customer features.
+
+![Correlation Heatmap](correlation.png)
 Several visualization techniques were used throughout the project, including:
 
 * PCA-based 3D Cluster Visualization
