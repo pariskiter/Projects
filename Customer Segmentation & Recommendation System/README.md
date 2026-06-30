@@ -171,6 +171,7 @@ Cluster 4 – Customers with High Cancellation Behavior
 Radar charts summarize the behavioral characteristics of each customer segment.
 
 ![Cluster Profiles](cluster profiles.png)
+
 ⸻
 
 Visualization Techniques
